@@ -9,7 +9,7 @@ const Footer = () => (
         <SocialLinks />
 
         <ul className="copyright">
-          <li>&copy; Copyright 2019 CeeVee</li>
+          <li>&copy; Copyright 2019 Candace D. Collins</li>
           <li>
             Design by{"Aaron Harris"}
             {/* <a title="Styleshout" href="http://www.styleshout.com/">

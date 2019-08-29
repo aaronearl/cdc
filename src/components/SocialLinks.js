@@ -11,16 +11,16 @@ import {
 const SocialLinks = () => (
   <ul className="social">
     <li>
-      <a href="#">
-        <FaFacebook />
+      <a href="https://www.linkedin.com/in/candace-collins-83030b71/">
+        <fa-linkedin-in />
       </a>
     </li>
-    <li>
+    {/* <li>
       <a href="#">
         <FaTwitter />
       </a>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <a href="#">
         <FaGooglePlus />
       </a>
@@ -34,7 +34,7 @@ const SocialLinks = () => (
       <a href="#">
         <FaGithub />
       </a>
-    </li>
+    </li> */}
   </ul>
 );
 

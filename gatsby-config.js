@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Ceevee",
+    title: "Candace Collins Resume",
     author: "Aman Mittal",
     description: "A Gatsby.js Starter based on Ceevee by Styleshout"
   },

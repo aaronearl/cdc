@@ -26,7 +26,7 @@ const Education = () => (
         <div className="twelve columns">
           <h3>West Los Angeles College</h3>
           <p className="info">
-            Nusiness Adminstration Major
+            Business Adminstration Major
             <span>&bull;</span>
 
           </p>

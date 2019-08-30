@@ -38,7 +38,7 @@ const Work = () => (
         <div className="twelve columns">
           <h3>Burger King</h3>
           <p className="info">
-            General Manger
+            District Manger
             <span>&bull;</span>
             <em className="date">June 1999 - October 2008</em>
           </p>

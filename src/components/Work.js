@@ -13,20 +13,25 @@ const Work = () => (
         <div className="twelve columns">
           <h3>Coffee Bean Tea & Leaf</h3>
           <p className="info">
-            District Manager
+            District Training Manager
             <span>&bull;</span>
-            <em className="date">March 2013 - Present</em>
+            <em className="date">March 2012 - July 2018</em>
+          </p>
+          <p className="info">
+            General Manager
+            <span>&bull;</span>
+            <em className="date"> 2008 - 2012</em>
           </p>
 
           <p>
-           •	Executing standards in recruiting, hiring, training, guest services, visual merchandising, and store operations
-•	Execute plans to drive key performance indicators to maximize profitability
+          •	Executing standards in recruiting, hiring, training, guest services, visual merchandising, and store operations
+•	I brought the store from 52 week average $20,279 to $25,857  by partnering with the community and surrounding businesses to increase sells from 2014-2015.
 •	Enhance brand loyalty by empowering team to create a natural and personable experience for customers
 •	Act as a partner between customers, sales associates, store leadership and corporate business partners
 •	Maintains a high level of customer focus and leads by example with clear and engaging communication
 •	Ensures visual directives and standards are maintained
 •	Passion for teaching associate’s product knowledge and how to apply their learnings to the customer experience
-•	Ensuring execution of operational standards within the district
+•	Greater than 860 days without work realted injury via compliance to Osha standards and company policy.
 •	Actively manages succession planning with consistent attention to identifying, training and developing management candidates.
 •	 Assists in the identification, nomination and maintenance of District Training Stores as needed
 
@@ -40,11 +45,11 @@ const Work = () => (
           <p className="info">
             District Manger
             <span>&bull;</span>
-            <em className="date">June 1999 - October 2008</em>
+            <em className="date">June 2003 - October 2008</em>
           </p>
 
           <p>
-            •	Ensures that an excellent level of Customer Service is provided in all assigned locations including the District Office where applicable. Responsible for teaching all Associates to provide a high level of Customer Service at all times.
+           •	Ensures that an excellent level of Customer Service is provided in all assigned locations including the District Office where applicable. Responsible for teaching all Associates to provide a high level of Customer Service at all times.
 •	Responsible for conducting multi store visits. This includes the administration, tracking and follow-up.
 •	Ensured all company standards are executed with excellence in all assigned locations.
 •	Ensured a safe, accident-free environment for all Customers and Associates. Maintains compliance to all state, local and federal regulations.
@@ -55,8 +60,7 @@ const Work = () => (
 •	Conducted new hire interviews and training according to districts needs
 •	Assisted GM’s with quarterly forecast, weekly schedules and with monitoring labor to be consistent with store sales and productivity guidelines.
 •	Maintain positive working relationships with direct reports, peers, supervisors, suppliers, and customers effectively handling complex or difficult situations involving others.
-•	Responsible for second interviewing process for management level new hire.
-
+•	Responsible for interviewing process for management level new hire.
           </p>
         </div>
       </div>

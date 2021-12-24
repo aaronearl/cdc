@@ -9,6 +9,27 @@ const Work = () => (
     </div>
 
     <div className="nine columns main-col">
+    <div className="row item">
+        <div className="twelve columns">
+          <h3>Denny's</h3>
+          <p className="info">
+            Senior General Manager
+            <span>&bull;</span>
+            <em className="date">2019 - Present</em>
+          </p>
+
+          <p>
+          Over seeing three resturants in the district while running a 2.9 million dollar store.
+Executing standards in recruiting, hiring, training, guest services, visual merchandising, and store operations.
+Maintains a high level of customer focus and leads by example with clear and engaging communication
+Increased  to-go and online orders to 80% of the business as dinning rooms were closed due to covid-19 in 20020.
+Ensures that an excellent level of Customer Service is provided in all assigned locations including the District Office where applicable. Responsible for teaching all Associates to provide a high level of Customer Service at all times. 
+Responsible for interviewing process for management level new hire.
+Assisted GM’s with quarterly forecast, weekly schedules to be consistent with productivity guidelines.
+          </p>
+        </div>
+      </div>
+
       <div className="row item">
         <div className="twelve columns">
           <h3>Coffee Bean Tea & Leaf</h3>

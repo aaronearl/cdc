@@ -1,40 +1,12 @@
-import React from "react";
-import {
-  FaFacebook,
-  FaGithub,
-  FaGooglePlus,
-  FaInstagram,
-  FaTwitter
-} from "react-icons/lib/fa";
-// https://gorangajic.github.io/react-icons/fa.html
+import React from 'react';
 
 const SocialLinks = () => (
   <ul className="social">
     <li>
       <a href="https://www.linkedin.com/in/candace-collins-83030b71/">
-        <fa-linkedin-in />
+        {/* <fa-linkedin-in /> */}
       </a>
     </li>
-    {/* <li>
-      <a href="#">
-        <FaTwitter />
-      </a>
-    </li> */}
-    {/* <li>
-      <a href="#">
-        <FaGooglePlus />
-      </a>
-    </li>
-    <li>
-      <a href="#">
-        <FaInstagram />
-      </a>
-    </li>
-    <li>
-      <a href="#">
-        <FaGithub />
-      </a>
-    </li> */}
   </ul>
 );
 

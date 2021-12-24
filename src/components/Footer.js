@@ -1,6 +1,5 @@
-import React from "react";
-import SocialLinks from "./SocialLinks";
-import { FaChevronCircleUp } from "react-icons/lib/fa";
+import React from 'react';
+import SocialLinks from './SocialLinks';
 
 const Footer = () => (
   <footer id="footer">
@@ -9,15 +8,15 @@ const Footer = () => (
         <SocialLinks />
 
         <ul className="copyright">
-          <li>&copy; Copyright 2019 Candace D. Collins</li>
+          <li>&copy; Copyright 2021 Candace D. Collins</li>
           <li>
-            Design by{"Aaron Harris"}
+            Design by{'Aaron Harris'}
             {/* <a title="Styleshout" href="http://www.styleshout.com/">
               Styleshout
             </a> */}
           </li>
           <li>
-            Developed in React ⚛️ by{" "}
+            Developed in React ⚛️ by{' '}
             <a href="http://www.74thstreet.net">Aaron Harris</a>
           </li>
         </ul>
@@ -25,7 +24,7 @@ const Footer = () => (
 
       <div id="go-top">
         <a className="smoothscroll" title="Back to Top" href="#home">
-          <FaChevronCircleUp />
+          {/* <FaChevronCircleUp /> */}
         </a>
       </div>
     </div>

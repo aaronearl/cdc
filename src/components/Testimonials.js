@@ -21,7 +21,7 @@ const Testimonials = () => (
           <ul>
             <Slider {...settings}>
               <li>
-                <blockquote>
+                {/* <blockquote>
                   <p>
                     Your work is going to fill a large part of your life, and
                     the only way to be truly satisfied is to do what you believe
@@ -31,10 +31,10 @@ const Testimonials = () => (
                     when you find it.
                   </p>
                   <cite>Steve Jobs</cite>
-                </blockquote>
+                </blockquote> */}
               </li>
               <li>
-                <blockquote>
+                {/* <blockquote>
                   <p>
                     This is Photoshop's version of Lorem Ipsum. Proin gravida
                     nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
@@ -43,7 +43,7 @@ const Testimonials = () => (
                     vulputate cursus a sit amet mauris.
                   </p>
                   <cite>Mr. Adobe</cite>
-                </blockquote>
+                </blockquote> */}
               </li>
             </Slider>
           </ul>

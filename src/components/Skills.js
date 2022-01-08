@@ -34,7 +34,7 @@ const Skills = () => (
             <em>Communication</em>
           </li>
           <li>
-            <span className="bar-expand nodejs" />
+            <span className="bar-expand css" />
             <em>Career Development</em>
           </li>
         </ul>
